@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/matchswing/static/css/main.9326b56c.css",
+    "main.js": "/matchswing/static/js/main.1890ee5a.js",
+    "static/js/787.d9d4b195.chunk.js": "/matchswing/static/js/787.d9d4b195.chunk.js",
+    "static/media/fan.png": "/matchswing/static/media/fan.7572ced9b8671fe4dc6d.png",
+    "static/media/lg.jpeg": "/matchswing/static/media/lg.a832eab16e1ae8d8f2e7.jpeg",
+    "static/media/b.png": "/matchswing/static/media/b.e508dabfa5e94d2539ef.png",
+    "static/media/umpire.png": "/matchswing/static/media/umpire.542dcd414606d8f97a97.png",
+    "static/media/lf.png": "/matchswing/static/media/lf.c665022e3c13ec01bdf6.png",
+    "index.html": "/matchswing/index.html",
+    "main.9326b56c.css.map": "/matchswing/static/css/main.9326b56c.css.map",
+    "main.1890ee5a.js.map": "/matchswing/static/js/main.1890ee5a.js.map",
+    "787.d9d4b195.chunk.js.map": "/matchswing/static/js/787.d9d4b195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9326b56c.css",
+    "static/js/main.1890ee5a.js"
+  ]
+}
